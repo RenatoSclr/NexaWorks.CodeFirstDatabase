@@ -12,7 +12,7 @@ namespace NexaWorks.CodeFirstDatabase.Models
     {
         [Key]
         public int Version_Id { get; set; }
-        public int Numero { get; set; }
+        public double Numero { get; set; }
 
         public int Produit_Id { get; set; }
 

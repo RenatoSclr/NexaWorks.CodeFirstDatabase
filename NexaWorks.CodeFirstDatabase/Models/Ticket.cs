@@ -28,7 +28,7 @@ namespace NexaWorks.CodeFirstDatabase.Models
 
         public int Statut_Id { get; set; }
 
-        [ForeignKey("Status_Id")]
+        [ForeignKey("Statut_Id")]
         public Statut Statut { get; set; }
 
         public int Version_Id { get; set; }
