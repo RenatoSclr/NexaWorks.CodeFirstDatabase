@@ -6,7 +6,7 @@ Actuellement. Ce projet est une base de données relationnelle personnalisée po
 ainsi que pour gérer la résolution de ces problèmes.
 
 ## Capture d'écran du Modèle d'Entité-Association
-![Modèle Entité-Association](Modèle%20Entitées-Associations.png)
+![Modèle Entité-Association](Images/Modèle%20Entitées-Associations.png)
 
 ## Installation
 
